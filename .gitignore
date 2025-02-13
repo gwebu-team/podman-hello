@@ -1,0 +1,13 @@
+hello
+
+# OS BS
+*.bak
+*.old
+*.rpmnew
+*.rpmsave
+*~
+.DS_Store*
+.~lock*
+Icon?
+Thumbs.db
+ehthumbs.db
